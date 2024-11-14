@@ -36,5 +36,25 @@ Run the script in SLURM batch script:\
 Example:\
 ``` sbatch sbatch 04_kmer_count.sh /data/users/dbassi/assembly_and_annotation-course/raw_data/<assesor-id>/<pacbio hifi> ```
 
+### Step 5: Run assembly Flyer
+Run the script in SLURM batch script:\
+Example:\
+``` sbatch sbatch 05_run_flyer.sh /data/users/dbassi/assembly_and_annotation-course/raw_data/<assesor-id>/<pacbio hifi> ```
+
+### Step 6: Run assembly Hifiasm
+Run the script in SLURM batch script:\
+Example:\
+``` sbatch sbatch 06_run_hifiasm.sh /data/users/dbassi/assembly_and_annotation-course/raw_data/<assesor-id>/<pacbio hifi> ```
+
+### Step 7: Run assembly LJA
+Run the script in SLURM batch script:\
+Example:\
+``` sbatch sbatch 07_run_lja.sh /data/users/dbassi/assembly_and_annotation-course/raw_data/<assesor-id>/<pacbio hifi> ```
+
+### Step 8: Run assembly Trinity
+Run the script in SLURM batch script:\
+Example:\
+``` sbatch sbatch 08_run_trinity.sh /data/users/dbassi/assembly_and_annotation-course/raw_data/<assesor-id>/<pacbio hifi> ```
+
 
 ## Annotation
