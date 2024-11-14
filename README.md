@@ -19,17 +19,22 @@ The accession used for this analysis is *Db-1*
 
 ### Step 1: Download Illumina Rna seq and Pacbio HIFI
 Run the script in SLURM batch script:\
-<code> sbatch 01_download_fastqc.sh
+``` sbatch 01_download_fastqc.sh ```
 
 ### Step 2: Basic read statistics FASTQC
 Run the script in SLURM batch script:\
 Example:\
-<code> sbatch 02_quality_control.sh /data/users/dbassi/assembly_and_annotation-course/raw_data/<folder_seq>/<file_seq>
+``` sbatch 02_quality_control.sh /data/users/dbassi/assembly_and_annotation-course/raw_data/<folder_seq>/<file_seq> ```
 
 ### Step 3: Basic read statistics FASTP
 Run the script in SLURM batch script:\
 Example:\
-<code> sbatch 03_run_fastp.sh <illmina_seq_1> <illumina_seq_2> <pacbio_seq>
+``` sbatch 03_run_fastp.sh <illmina_seq_1> <illumina_seq_2> <pacbio_seq> ```
+
+### Step 4: K-mer counting
+Run the script in SLURM batch script:\
+Example:\
+``` sbatch sbatch 04_kmer_count.sh /data/users/dbassi/assembly_and_annotation-course/raw_data/<assesor-id>/<pacbio hifi> ```
 
 
 ## Annotation
