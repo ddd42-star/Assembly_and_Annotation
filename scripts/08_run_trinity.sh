@@ -12,14 +12,13 @@ WORKDIR=/data/users/dbassi/assembly_and_annotation-course
 THREADS=$SLURM_CPUS_PER_TASK
 
 # Check if FASTQ_FILE is provided as an argument, otherwise exit with usage message
-if [ -z "$1" ] || [ -z "$2" ] || [ -z "$3" ]; then
+if [ -z "$1" ] || [ -z "$2" ]; then
   echo "Usage: $0 <path_to_fastq_file>"
   exit 1
 fi
 
-GENOMIC_INPUT=$1
-ILLUMINA_F1=$2
-ILLUMINA_F2=$3
+ILLUMINA_F1=$1
+ILLUMINA_F2=$2
 
 ASSEMBLIES_DIR=$WORKDIR/assemblies/trinity-assembly
 
