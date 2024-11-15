@@ -7,21 +7,26 @@
 #SBATCH --mail-user=dario.bassi@students.unibe.ch
 #SBATCH --mail-type=end
 #SBATCH --partition=pibu_el8
+#SBATCH --output=/data/users/dbassi/assembly_and_annotation-course/outputs/output_plot_busco_%j.o
 
 
 WORKDIR=/data/users/dbassi/assembly_and_annotation-course
 THREADS=$SLURM_CPUS_PER_TASK
 OUTPUT_DIR=$WORK_DIR/busco_plots
-FLYE_ASSEMBLY=$1
-HIFIASM_ASSEMBLY=$2
-LJA_ASSEMBLY=$3
-TRINITY_ASSEMBLY=$4
 
 # Check if FASTQ_FILE is provided as an argument, otherwise exit with usage message
 if [ -z "$1" ] || [ -z "$2" ] || [ -z "$3" ] || [ -z "$4" ]; then
   echo "Usage: $0 <path_to_fastq_file>"
   exit 1
 fi
+
+
+FLYE_ASSEMBLY=$1
+HIFIASM_ASSEMBLY=$2
+LJA_ASSEMBLY=$3
+TRINITY_ASSEMBLY=$4
+
+
 
 module load BUSCO/5.4.2-foss-2021a
 

@@ -83,6 +83,13 @@ Run the script in SLURM batch script:
 ``` 
 sbatch 11_run_QUAST.sh <genome assembly flye .fa> <genome assembly hifiasm .fa> <genome assembly lja .fa>
  ```
+### Step 12: Assembly quality MERCURY
+``` 
+Find best kkmer
+sbatch 12_run_bset_kkmer_MERCURY.sh
 
+
+sbatch 12_run_MERCURY.sh <genome assembly flye .fa> <genome assembly hifiasm .fa> <genome assembly lja .fa> <Pacbio .fastq>
+ ```
 
 ## Annotation

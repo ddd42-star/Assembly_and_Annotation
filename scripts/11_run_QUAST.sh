@@ -7,6 +7,7 @@
 #SBATCH --mail-user=dario.bassi@students.unibe.ch
 #SBATCH --mail-type=end
 #SBATCH --partition=pibu_el8
+#SBATCH --output=/data/users/dbassi/assembly_and_annotation-course/outputs/output_quast_%j.o
 
 WORKDIR=/data/users/dbassi/assembly_and_annotation-course
 THREADS=$SLURM_CPUS_PER_TASK
