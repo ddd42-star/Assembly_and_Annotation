@@ -71,5 +71,18 @@ Run the script in SLURM batch script:
 sbatch 09_run_BUSCO.sh <genome assembly .fa> <folder name>
  ```
 
+### Step 10: Plot BUSCO result
+Run the script in SLURM batch script:
+``` 
+sbatch 10_plot_BUSCO.sh <flye stats> <hifiasm stats> <lja stats> <trinity stats>
+ ```
+
+
+### Step 11: Assembly quality QUAST
+Run the script in SLURM batch script:
+``` 
+sbatch 11_run_QUAST.sh <genome assembly flye .fa> <genome assembly hifiasm .fa> <genome assembly lja .fa>
+ ```
+
 
 ## Annotation

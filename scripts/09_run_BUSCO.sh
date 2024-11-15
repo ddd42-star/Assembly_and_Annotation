@@ -30,8 +30,7 @@ module load BUSCO/5.4.2-foss-2021a
 
 busco \
  -i ${GENOME} \
- -o $OUTPUT_DIR \
+ --out_path $OUTPUT_DIR \
  -m genome \
  -l brassicales_odb10 \
- --cpu $THREADS \
- -f 
+ --cpu $THREADS 
