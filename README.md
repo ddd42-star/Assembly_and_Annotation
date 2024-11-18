@@ -107,3 +107,22 @@ Run the script in SLURM batch script:
 ``` 
 sbatch 14_run_EDTA.sh <genome assembly flye .fa>
 ```
+
+### Step 15: Full length LTRs identity
+Run the scripts:
+``` 
+sbatch 15_run_TEsorter.sh <assembly.fasta.mod.LTR.intact.fa>
+
+Rscript 15_LTRS_identity.R
+```
+
+### Step 16: Visualizing and comparing TE annotations from EDTA
+Run the script in R:
+```
+sbatch 16_run_fai.sh <assembly.fasta>
+
+Rscript 16_circle_gypsy_copia.R
+```
+
+### Step 17: Refining TE Classification with TEsorter
+
