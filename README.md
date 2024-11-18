@@ -134,6 +134,8 @@ Rscript 17_abundance_hist.R
 ### Step 18: Dynamics of Transposable Elements (TEs)
 ```
 sbatch 18_run_dynamics_TE.sh <assembly.fasta.mod.EDTA.anno/assembly.fasta.mod.out>
+
+Rscript 18_te_landscape.R
 ```
 
 ### Step 
