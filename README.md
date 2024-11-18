@@ -101,3 +101,9 @@ sbatch 13_comparison.sh <genome assembly flye .fa> <genome assembly hifiasm .fa>
 ```
 
 ## Annotation
+For this part I choose the assembly obtained from FLYE.
+### Step 14: Run EDTA (Transposable Elements annotation)
+Run the script in SLURM batch script:
+``` 
+sbatch 14_run_EDTA.sh <genome assembly flye .fa>
+```
