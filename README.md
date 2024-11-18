@@ -57,6 +57,8 @@ sbatch 06_run_hifiasm.sh  <pacbio trimmed .fastq>
 Run the script in SLURM batch script:
 ``` 
 sbatch 07_run_lja.sh <pacbio trimmed .fastq>
+
+Note: The software LJA doesn't work for the accession number Db-1
 ```
 
 ### Step 8: Run assembly Trinity

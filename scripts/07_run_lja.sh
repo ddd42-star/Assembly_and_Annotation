@@ -31,3 +31,9 @@ lja \
 -o $ASSEMBLIES_DIR \
 --reads $GENOMIC_INPUT \
 -t $THREADS
+
+# NOTE
+# This script normally does, but with my accession number (Db-1) it cannot build the De Bruji Graph
+# See this issue already present the github (https://github.com/AntonBankevich/LJA/issues/21#issuecomment-1074238528)
+# I tried to use the 'bug_fix' branch from the repository, but it still didn't work. (git clone https://github.com/AntonBankevich/LJA.git)
+
