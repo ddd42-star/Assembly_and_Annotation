@@ -130,3 +130,10 @@ sbatch 17_run_TEsorter.sh <assembly.fasta.mod.EDTA.TElib.fa>
 
 Rscript 17_abundance_hist.R 
 ```
+
+### Step 18: Dynamics of Transposable Elements (TEs)
+```
+sbatch 18_run_dynamics_TE.sh <assembly.fasta.mod.EDTA.anno/assembly.fasta.mod.out>
+```
+
+### Step 
