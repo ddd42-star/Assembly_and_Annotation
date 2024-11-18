@@ -138,4 +138,7 @@ sbatch 18_run_dynamics_TE.sh <assembly.fasta.mod.EDTA.anno/assembly.fasta.mod.ou
 Rscript 18_te_landscape.R
 ```
 
-### Step 
+### Step 19: Phylogenetics
+```
+sbatch 19_run_phylogenetic.sh
+```
