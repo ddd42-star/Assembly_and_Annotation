@@ -125,4 +125,8 @@ Rscript 16_circle_gypsy_copia.R
 ```
 
 ### Step 17: Refining TE Classification with TEsorter
+```
+sbatch 17_run_TEsorter.sh <assembly.fasta.mod.EDTA.TElib.fa>
 
+Rscript 17_abundance_hist.R 
+```
