@@ -78,7 +78,7 @@ plot_sf= ggplot(anno_data_filtered_classified, aes(x = Identity)) +
   cowplot::theme_cowplot() 
 
 
-pdf("01_full-length-LTR-RT-superfamily.pdf")
+pdf("01_full-length-LTR-RT-superfamily-new.pdf")
 plot(plot_sf)
 dev.off()
 
@@ -93,7 +93,7 @@ plot_cl= ggplot(anno_data_filtered_classified[anno_data_filtered_classified$Supe
   cowplot::theme_cowplot()
 
 
-pdf("01_full-length-LTR-RT-clades.pdf",height=20)
+pdf("01_full-length-LTR-RT-clades-new.pdf",height=20)
 plot(plot_cl)
 dev.off()
 
