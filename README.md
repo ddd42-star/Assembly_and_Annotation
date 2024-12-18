@@ -142,3 +142,50 @@ Rscript 18_te_landscape.R
 ```
 sbatch 19_run_phylogenetic.sh
 ```
+Note: Once obtained the ID of all clades, create the file [color.txt](https://itol.embl.de/help/dataset_color_strip_template.txt) and the file [abundance.txt](https://itol.embl.de/help/dataset_simplebar_template.txt). The go on [interactive tree of life](https://itol.embl.de/) and upload the trees for copia and gipsy with their annotation (color + abundance)
+
+
+### Step 20: Maker
+```
+sbatch 20_run_maker.sh
+```
+
+### Step 21: Filtering and Refining gene annotations
+```
+sbatch 21_run_filtering_gene_annotation.sh
+```
+
+### Step 22: QC annotation - BUSCO
+```
+sbatch 22_run_BUSCO_gene_annotation.sh
+
+and than
+
+sbatch 22_run_busco_plot_annotation.sh
+```
+
+### Step 23: QC annotation - UNIPROT
+```
+sbatch 23_run_UNIPROT.sh
+```
+
+### Step 24: OMArk
+```
+sbatch 24_run_OMArk.sh
+```
+
+### Step 25: Genespace - preparation
+```
+sbatch 25_run_prepare_genespace.sh
+```
+Once genespace prepared the subdirectory, copy other accession number gff and fasta file to compare with other groups
+
+### Step 26: Genespace
+```
+sbatch 26_run_Genespace.sh
+```
+
+### Step 27: Orthofinder
+```
+sbatch 27_orthofinde.sh
+```
