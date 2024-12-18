@@ -1,0 +1,144 @@
+#TE	Order	Superfamily	Clade	Complete	Strand	Domains
+ATGP10_I	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+ATGP11_I	LTR	Gypsy	CRM	no	+	GAG|CRM CHDCR|CRM
+ATGP1I	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+ATGP2I	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+ATGP3A_I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+ATGP3B_I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+ATGP3I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+ATGP4_I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+ATGP5A_I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+ATGP5A_LTR	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+ATGP5I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+ATGP6I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+ATGP6LTR	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+ATGP7I	LTR	Gypsy	CRM	no	+	GAG|CRM PROT|CRM RT|CRM RH|CRM
+ATGP7LTR	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+ATGP8I	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+ATGP9BI	LTR	Gypsy	Reina	no	+	GAG|Reina
+ATHILA0_I	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+ATHILA2_I	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+ATHILA3_I	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+ATHILA4C_I	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+ATHILA4D_I	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila RT|Athila RH|Athila
+ATHILA4_I	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+ATHILA5_I	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+ATHILA6A_I	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+ATHILA6B_I	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+ATHILA6C_I	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+ATHILA7A_I	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+ATHILA7_I	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+ATHILA8A_I	LTR	Gypsy	Athila	no	+	PROT|Athila
+ATHILA8B_I	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+ATHILA_I	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+ATLANTYS1_I	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+ATLANTYS2_I	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+ATLANTYS3I	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand aRH|Retand INT|Retand
+BNINTMO	LTR	Gypsy	Tekay	no	+	INT|Tekay
+Gypsy-10_ALY-I	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+Gypsy-10_BRa-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+Gypsy-11_ALY-I	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand INT|Retand
+Gypsy-11_BRa-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+Gypsy-12_ALY-I	LTR	Gypsy	CRM	no	+	RH|CRM INT|CRM
+Gypsy-12_ALY-LTR	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+Gypsy-12_BRa-I	LTR	Gypsy	Reina	no	+	GAG|Reina PROT|Reina RT|Reina RH|Reina CHD|Reina
+Gypsy-13_ALY-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+Gypsy-13_ALY-LTR	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+Gypsy-13_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-14_ALY-I	LTR	Gypsy	CRM	no	+	PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+Gypsy-14_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-15_ALY-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-15_AT-I	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand INT|Retand
+Gypsy-15_BRa-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+Gypsy-16_ALY-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-16_BRa-I	LTR	Gypsy	Reina	no	+	RH|Reina INT|Reina CHD|Reina
+Gypsy-17_ALY-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+Gypsy-17_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-18_ALY-I	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+Gypsy-18_BRa-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+Gypsy-19_ALY-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-19_BRa-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+Gypsy-1_ALY-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+Gypsy-1_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-1_EPa-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+Gypsy-1_EPa-LTR	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+Gypsy-20_ALY-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+Gypsy-20_ALY-LTR	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+Gypsy-20_BRa-I	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+Gypsy-21_ALY-I	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+Gypsy-21_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-22_ALY-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+Gypsy-22_BRa-I	LTR	Gypsy	Reina	no	+	GAG|Reina PROT|Reina RT|Reina CHD|Reina
+Gypsy-23_ALY-I	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+Gypsy-23_BRa-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+Gypsy-24_ALY-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+Gypsy-24_BRa-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+Gypsy-25_ALY-I	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+Gypsy-25_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-26_ALY-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-26_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-27_ALY-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-27_BRa-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+Gypsy-28_ALY-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+Gypsy-28_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-29_ALY-I	LTR	Gypsy	Reina	no	+	GAG|Reina
+Gypsy-29_BRa-I	LTR	Gypsy	Reina	no	+	GAG|Reina PROT|Reina RT|Reina INT|Reina CHD|Reina
+Gypsy-2_ALY-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+Gypsy-2_ALY-LTR	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+Gypsy-2_BRa-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+Gypsy-2_EPa-I	LTR	Gypsy	CRM	no	+	GAG|CRM RT|CRM PROT|Athila INT|CRM
+Gypsy-2_EPa-LTR	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+Gypsy-30_ALY-I	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+Gypsy-30_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-31_ALY-I	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+Gypsy-31_BRa-I	LTR	Gypsy	Galadriel	no	+	GAG|Galadriel RH|Galadriel INT|Galadriel CHD|Galadriel
+Gypsy-32_ALY-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+Gypsy-32_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-33_ALY-I	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+Gypsy-33_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-34_ALy-I	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+Gypsy-34_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-35_ALy-I	LTR	Gypsy	Reina	no	+	GAG|Reina
+Gypsy-35_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-36_ALy-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+Gypsy-36_ALy-LTR	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+Gypsy-36_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-37_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-38_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-39_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-3_ALY-I	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+Gypsy-3_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-3_EPa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-40_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-41_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina
+Gypsy-41_BRa-LTR	LTR	Gypsy	Reina	no	+	CHD|Reina
+Gypsy-42_BRa-I	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand
+Gypsy-43_BRa-I	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+Gypsy-44_BRa-I	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+Gypsy-45_BRa-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+Gypsy-45_BRa-LTR	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+Gypsy-46_ALy-I	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+Gypsy-46_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-47_BRa-I	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+Gypsy-48_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-4_ALY-I	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+Gypsy-4_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-4_EPa-I	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+Gypsy-5_ALY-I	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+Gypsy-5_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-5_EPa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-6_ALY-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-6_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-6_EPa-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+Gypsy-6_EPa-LTR	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+Gypsy-7_ALY-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-7_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina
+Gypsy-7_EPa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-8_ALY-I	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+Gypsy-8_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-8_EPa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-9_ALY-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+Gypsy-9_BRa-I	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+Gypsy-9_EPa-I	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+Gypsy-9_EPa-LTR	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+Gypsy-4_EPa-LTR	LTR	Gypsy	unknown	none	?	none
