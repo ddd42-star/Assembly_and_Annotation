@@ -37,6 +37,3 @@ ggplot(gypsy, aes(x = Clade, y = V2)) +
   labs(title = "Abundance of Each Clade in Gypsy", x = "Clade", y = "Number of Occurrences") +
   theme_minimal()
 
-
-# abundance file
-write.csv(data.frame(gypsy$V1,gypsy$V2), "gypsy_tot.csv",row.names = F)

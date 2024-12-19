@@ -1,0 +1,47 @@
+#TE	Order	Superfamily	Clade	Complete	Strand	Domains
+TE_00000008_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000057_INT#LTR/Copia	LTR	Copia	Ale	no	+	GAG|Ale PROT|Ale INT|Ale
+TE_00000088_INT#LTR/Copia	LTR	Copia	SIRE	yes	+	GAG|SIRE PROT|SIRE INT|SIRE RT|SIRE RH|SIRE
+TE_00000096_INT#LTR/Copia	LTR	Copia	Bianca	no	+	PROT|Bianca INT|Bianca RT|Bianca RH|Bianca
+TE_00000137_INT#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00000144_INT#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00000145_INT#LTR/Copia	LTR	Copia	Bianca	no	+	RH|Bianca
+TE_00000157_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000158_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000160_INT#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00000190_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000204_INT#LTR/Copia	LTR	Copia	SIRE	no	+	GAG|SIRE PROT|SIRE INT|SIRE
+TE_00000223_INT#LTR/Copia	LTR	Copia	TAR	no	+	PROT|TAR INT|TAR RT|TAR RH|TAR
+TE_00000227_INT#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00000229_INT#LTR/Copia	LTR	Copia	TAR	yes	+	GAG|TAR PROT|TAR INT|TAR RT|TAR RH|TAR
+TE_00000237_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000242_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000243_INT#LTR/Copia	LTR	Copia	Ale	no	+	PROT|Ale RT|Ale RH|Ale
+TE_00000251_INT#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00000253_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000274_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000284_INT#LTR/Copia	LTR	Copia	Ale	no	+	RT|Ale RH|Ale
+TE_00000290_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000304_INT#LTR/Copia	LTR	Copia	Ale	no	+	GAG|Ale INT|Ale RT|Ale RH|Ale
+TE_00000308_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000327_INT#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00000328_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000338_INT#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00000341_INT#LTR/Copia	LTR	Copia	Ale	yes	-	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000359_INT#LTR/Copia	LTR	Copia	Bianca	no	+	RH|Bianca
+TE_00000396_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000402_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000408_INT#LTR/Copia	LTR	Copia	Alesia	yes	+	GAG|Alesia PROT|Alesia INT|Alesia RT|Alesia RH|Alesia
+TE_00000417_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000421_INT#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00000426_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000438_INT#LTR/Copia	LTR	Copia	Ale	no	+	PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000450_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000473_INT#LTR/Copia	LTR	Copia	Ale	no	?	RH|Ale RT|Ale INT|Ale GAG|Ale PROT|Ale
+TE_00000492_INT#LTR/Copia	LTR	Copia	Ivana	yes	+	GAG|Ivana PROT|Ivana INT|Ivana RT|Ivana RH|Ivana
+TE_00000493_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000494_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000521_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000522_INT#LTR/Copia	LTR	Copia	Ale	yes	+	GAG|Ale PROT|Ale INT|Ale RT|Ale RH|Ale
+TE_00000532_INT#LTR/Copia	LTR	Copia	Tork	yes	+	GAG|Tork PROT|Tork INT|Tork RT|Tork RH|Tork
+TE_00000434_INT#LTR/Copia	LTR	Copia	unknown	none	?	none

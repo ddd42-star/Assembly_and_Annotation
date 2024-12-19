@@ -127,9 +127,21 @@ Rscript 16_circle_gypsy_copia.R
 ### Step 17: Refining TE Classification with TEsorter
 ```
 sbatch 17_run_TEsorter.sh <assembly.fasta.mod.EDTA.TElib.fa>
+```
 
+Run:
+```
 Rscript 17_abundance_hist.R 
 ```
+
+to visualize only the clades for the accession *Db-1*
+
+or run:
+```
+Rscript 17_abundance_hist_multiple.R
+```
+
+to visualize the comparison of clades found in *Db-1*, *St0*, *Kar1*, *Had-6bn*, *Rubezhnoe1*
 
 ### Step 18: Dynamics of Transposable Elements (TEs)
 ```

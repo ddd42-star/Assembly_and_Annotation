@@ -1,0 +1,88 @@
+#TE	Order	Superfamily	Clade	Complete	Strand	Domains
+TE_00000023_INT#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand INT|Retand
+TE_00000072_INT#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000133_INT#LTR/Gypsy	LTR	Gypsy	Retand	no	+	PROT|Retand RT|Retand RH|Retand
+TE_00000174_INT#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand aRH|Retand INT|Retand
+TE_00000245_INT#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand RT|Retand aRH|Retand INT|Retand
+TE_00000277_INT#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000287_INT#LTR/Gypsy	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay
+TE_00000296_INT#LTR/Gypsy	LTR	Gypsy	Tekay	no	+	CHD|Tekay
+TE_00000299_INT#LTR/Gypsy	LTR	Gypsy	Tekay	no	+	GAG|Tekay
+TE_00000307_INT#LTR/Gypsy	LTR	Gypsy	Reina	no	+	GAG|Reina PROT|Reina CHD|Reina
+TE_00000315_INT#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00000317_INT#LTR/Gypsy	LTR	Gypsy	Tekay	no	+	GAG|Tekay
+TE_00000322_INT#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000327_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000328_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000346_INT#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00000349_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000358_INT#LTR/Gypsy	LTR	Gypsy	Reina	yes	?	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00000363_INT#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+TE_00000372_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila RT|Athila RH|Athila
+TE_00000374_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000379_INT#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00000383_INT#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00000392_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000397_INT#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000400_LTR#LTR/Gypsy	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+TE_00000401_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000408_INT#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00000429_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	RT|Athila RH|Athila INT|Athila
+TE_00000430_INT#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00000433_INT#LTR/Gypsy	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay
+TE_00000454_INT#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand
+TE_00000456_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000460_INT#LTR/Gypsy	LTR	Gypsy	Tekay	no	+	PROT|Tekay CHD|Tekay
+TE_00000462_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000467_INT#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00000472_INT#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00000495_INT#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000510_INT#LTR/Gypsy	LTR	Gypsy	Reina	no	+	GAG|Reina
+TE_00000517_INT#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000527_LTR#LTR/Gypsy	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+TE_00000536_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila RT|Athila RH|Athila INT|Athila
+TE_00000542_INT#LTR/Gypsy	LTR	Gypsy	Reina	no	+	GAG|Reina
+TE_00000549_INT#LTR/Gypsy	LTR	Gypsy	Reina	no	+	GAG|Reina PROT|Reina
+TE_00000552_INT#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00000565_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000570_INT#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000571_INT#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00000572_INT#LTR/Gypsy	LTR	Gypsy	Retand	yes	+	GAG|Retand PROT|Retand RT|Retand RH|Retand INT|Retand
+TE_00000588_INT#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand aRH|Retand INT|Retand
+TE_00000589_INT#LTR/Gypsy	LTR	Gypsy	CRM	no	+	GAG|CRM CHDCR|CRM
+TE_00000604_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000606_INT#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00000611_INT#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00000621_INT#LTR/Gypsy	LTR	Gypsy	CRM	no	+	GAG|CRM PROT|CRM RT|CRM INT|CRM
+TE_00000627_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000629_INT#LTR/Gypsy	LTR	Gypsy	Tekay	yes	+	GAG|Tekay PROT|Tekay RT|Tekay RH|Tekay INT|Tekay
+TE_00000635_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000652_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000664_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	RT|Athila RH|Athila INT|Athila
+TE_00000673_INT#LTR/Gypsy	LTR	Gypsy	Retand	no	+	GAG|Retand PROT|Retand RT|Retand aRH|Retand INT|Retand
+TE_00000683_LTR#LTR/Gypsy	LTR	Gypsy	CRM	no	+	CHDCR|CRM
+TE_00000686_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000689_INT#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00000703_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000716_INT#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00000718_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000730_INT#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00000746_INT#LTR/Gypsy	LTR	Gypsy	Tekay	no	+	PROT|Tekay
+TE_00000756_INT#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00000773_INT#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00000779_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000780_INT#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00000788_INT#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00000804_INT#LTR/Gypsy	LTR	Gypsy	Athila	no	+	GAG|Athila PROT|Athila
+TE_00000818_INT#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00000824_INT#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM
+TE_00000827_INT#LTR/Gypsy	LTR	Gypsy	CRM	yes	+	GAG|CRM PROT|CRM RT|CRM RH|CRM INT|CRM CHDCR|CRM
+TE_00000833_INT#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00000847_INT#LTR/Gypsy	LTR	Gypsy	Athila	yes	+	GAG|Athila PROT|Athila RT|Athila RH|Athila INT|Athila
+TE_00000849_INT#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00000860_INT#LTR/Gypsy	LTR	Gypsy	Reina	no	+	GAG|Reina
+TE_00000870_INT#LTR/Gypsy	LTR	Gypsy	Tekay	no	+	PROT|Tekay RT|Tekay RH|Tekay INT|Tekay CHD|Tekay
+TE_00000871_INT#LTR/Gypsy	LTR	Gypsy	Reina	yes	+	GAG|Reina PROT|Reina RT|Reina RH|Reina INT|Reina CHD|Reina
+TE_00000875_INT#LTR/Gypsy	LTR	Gypsy	Tekay	no	+	GAG|Tekay INT|Tekay
+TE_00000457_INT#LTR/Gypsy	LTR	Gypsy	unknown	none	?	none
+TE_00000581_INT#LTR/Gypsy	LTR	Gypsy	unknown	none	?	none
