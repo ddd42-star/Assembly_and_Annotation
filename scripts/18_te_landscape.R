@@ -33,24 +33,29 @@ rep_table.m$fam <- factor(rep_table.m$fam, levels = c(
 ))
 
 # NOTE: Check that all the superfamilies in your dataset are included above
+table(rep_table$fam)
 
 rep_table.m$distance <- as.numeric(rep_table.m$variable) / 100 # as it is percent divergence
 
 # Question:
 # rep_table.m$age <- ??? # Calculate using the substitution rate and the formula provided in the tutorial
 sub_rate <- 8.22 * 10^-9
-rep_table.m$age <- rep_table.m$distance/(2*sub_rate)
+rep_table.m$age <-as.numeric(rep_table.m$variable) / (2*sub_rate)
+
+rep_table.m$age <- rep_table.m$age / 10^6 # convert in My= Million Year
 
 # options(scipen = 999)
 
 # remove helitrons as EDTA is not able to annotate them properly (https://github.com/oushujun/EDTA/wiki/Making-sense-of-EDTA-usage-and-outputs---Q&A)
 rep_table.m <- rep_table.m %>% filter(fam != "DNA/Helitron")
 
+# change x = distance to see the percentage of divergence
+
 ggplot(rep_table.m, aes(fill = fam, x = age, weight = value / 1000000)) +
   geom_bar() +
   cowplot::theme_cowplot() +
   scale_fill_brewer(palette = "Paired") +
-  xlab("Age") +
+  xlab("Age (Million years)") +
   ylab("Sequence (Mbp)") +
   theme(axis.text.x = element_text(angle = 90, vjust = 1, size = 9, hjust = 1), plot.title = element_text(hjust = 0.5))
 
