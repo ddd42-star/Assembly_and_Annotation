@@ -77,6 +77,6 @@ cd miniprot && make
 
 #miniprot -I --gff --outs=0.95 {GENOMIC_FASTA} {SEQ_FASTA} > {MINIPROT_OUTPUT}
 
-miniprot -I --gff --outs=0.95 /data/users/dbassi/assembly_and_annotation-course/assemblies/flye-assembly/assembly.fasta /data/users/dbassi/assembly_and_annotation-course/omark/fragment_output.fa > miniprot_fragment_correction.fasta
+miniprot -I --gff --outs=0.95 /data/users/dbassi/assembly_and_annotation-course/assemblies/flye-assembly/assembly.fasta /data/users/dbassi/assembly_and_annotation-course/omark/fragment_output.fa > miniprot_fragment_correction.gff
 
-miniprot -I --gff --outs=0.95 /data/users/dbassi/assembly_and_annotation-course/assemblies/flye-assembly/assembly.fasta /data/users/dbassi/assembly_and_annotation-course/omark/missing_output.fa > miniprot_fragment_correction.fasta
+miniprot -I --gff --outs=0.95 /data/users/dbassi/assembly_and_annotation-course/assemblies/flye-assembly/assembly.fasta /data/users/dbassi/assembly_and_annotation-course/omark/missing_output.fa > miniprot_fragment_correction.gff
